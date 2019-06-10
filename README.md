@@ -43,6 +43,8 @@ print(tagged_words)`
 [OUTPUT]:
  `[('१०', 'CD'), ('वर्षीया', 'JJ'), ('बालिका', 'NN'), ('बलात्कारपछि', 'IN'), ('हत्या', 'NN'), ('गर्ने', 'VBNE'), ('सार्वजनिक', 'JJ')]`
 
+# For Keyword Extraction
+run nepali_keyword_extraction.py
 
 easy wasn't it?
 
