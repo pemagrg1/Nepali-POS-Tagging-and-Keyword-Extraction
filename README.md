@@ -1,3 +1,5 @@
+Created Date: 12 October 2018
+
 # Nepali-POS-Tagging-and-Keyword-Extraction
 Nepali is the language spoken by the people of Nepal. Nepali is actually written with the Devanagari alphabet and is an Indo-Aryan Language. The Devanagari script, which is generally known as Nagari, is written from left to right. The order of the letters made up of vowels and consonants is known as the "varnamala" which means the "garland of flowers." In the Unicode Conventional, the Devanagari is constituted in three blocks. U+0900–U+097F comprises the Devanagari, U+1CD0–U+1CFF comprises the Devanagari Extended, and U+A8E0–U+A8FF comprises the Vedic Extension. 
 
